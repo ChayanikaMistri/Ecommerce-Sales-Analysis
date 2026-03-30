@@ -54,7 +54,7 @@ Developed an **interactive Power BI dashboard** to analyze two years of e-commer
 
 ## 📷 Dashboard Preview
 
-ecommerce-sales-analysis.png
+![Dashboard](ecommerce-sales-analysis.png)
 
 ---
 
